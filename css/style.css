@@ -47,6 +47,18 @@
 
 /* For mobile phones: */
 @media only screen and (max-width: 600px) {
+    .small-device-height{
+      height: 45vh;
+    }
+    .pb-5 {
+      padding-bottom: 0rem!important;
+    }
+  
+    .mb-5 {
+        margin-bottom: 2rem!important;
+     }
+
+
     .center-ready{
         display: flex;
         align-items: center;
